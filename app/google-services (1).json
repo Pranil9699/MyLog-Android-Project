@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "706319693326",
+    "firebase_url": "https://mylog-a3ac0-default-rtdb.firebaseio.com",
+    "project_id": "mylog-a3ac0",
+    "storage_bucket": "mylog-a3ac0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706319693326:android:f484fdb7972ee475a92e5f",
+        "android_client_info": {
+          "package_name": "com.pranil9699.mylog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwl6cLxTR0p59x5l7bN9ZUd1V-2nz0iTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
